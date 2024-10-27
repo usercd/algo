@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a7a27eb-dd25-4178-a713-6fc373d5417b" name="Changes" comment="241013: add leetcode algorithm problems did in a week">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code160_IntersectionOfTwoLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code169_MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code198_HouseRobber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code200_NumberOfIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code206_ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code207_CourseSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code208_PrefixTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code215_KthLargestElementInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code221_MaximalSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code226_InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code234_PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code236_LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
+    <list default="true" id="1a7a27eb-dd25-4178-a713-6fc373d5417b" name="Changes" comment="241020: add leetcode algorithm problems did in a week">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code238_ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code239_SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code240_SearchA2DMatrixII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code279_PerfectSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code283_MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code287_FindTheDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code297_SerializeAndDeserializeBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code300_LongestIncreasingSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +241,13 @@
       <workItem from="1729124458148" duration="2072000" />
       <workItem from="1729212094478" duration="821000" />
       <workItem from="1729298716548" duration="1558000" />
-      <workItem from="1729387881987" duration="451000" />
+      <workItem from="1729387881987" duration="506000" />
+      <workItem from="1729470007946" duration="2229000" />
+      <workItem from="1729557343857" duration="1092000" />
+      <workItem from="1729644247686" duration="1409000" />
+      <workItem from="1729730356673" duration="528000" />
+      <workItem from="1729817243309" duration="1316000" />
+      <workItem from="1729989419469" duration="682000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1672992010583</created>
@@ -314,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728784550321</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="241020: add leetcode algorithm problems did in a week">
+      <option name="closed" value="true" />
+      <created>1729388413968</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729388413968</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +354,8 @@
     <MESSAGE value="241006: init project" />
     <MESSAGE value="241006: add README.md" />
     <MESSAGE value="241013: add leetcode algorithm problems did in a week" />
-    <option name="LAST_COMMIT_MESSAGE" value="241013: add leetcode algorithm problems did in a week" />
+    <MESSAGE value="241020: add leetcode algorithm problems did in a week" />
+    <option name="LAST_COMMIT_MESSAGE" value="241020: add leetcode algorithm problems did in a week" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
