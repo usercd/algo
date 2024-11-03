@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a7a27eb-dd25-4178-a713-6fc373d5417b" name="Changes" comment="241020: add leetcode algorithm problems did in a week">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code238_ProductOfArrayExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code239_SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code240_SearchA2DMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code279_PerfectSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code283_MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code287_FindTheDuplicateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code297_SerializeAndDeserializeBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code300_LongestIncreasingSubsequence.java" afterDir="false" />
+    <list default="true" id="1a7a27eb-dd25-4178-a713-6fc373d5417b" name="Changes" comment="241027: add leetcode algorithm problems did in a week">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code301_RemoveInvalidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code309_BestTimeToBuyAndSellStockWithCooldown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code312_BurstBalloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code322_CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code337_HouseRobberIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code338_CountingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code347_TopKFrequentElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -247,7 +246,14 @@
       <workItem from="1729644247686" duration="1409000" />
       <workItem from="1729730356673" duration="528000" />
       <workItem from="1729817243309" duration="1316000" />
-      <workItem from="1729989419469" duration="682000" />
+      <workItem from="1729989419469" duration="720000" />
+      <workItem from="1730073763645" duration="599000" />
+      <workItem from="1730164046787" duration="361000" />
+      <workItem from="1730247855246" duration="516000" />
+      <workItem from="1730334770913" duration="143000" />
+      <workItem from="1730334973454" duration="808000" />
+      <workItem from="1730423613318" duration="296000" />
+      <workItem from="1730597110379" duration="523000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1672992010583</created>
@@ -324,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729388413968</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="241027: add leetcode algorithm problems did in a week">
+      <option name="closed" value="true" />
+      <created>1729990130979</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729990130979</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,7 +369,8 @@
     <MESSAGE value="241006: add README.md" />
     <MESSAGE value="241013: add leetcode algorithm problems did in a week" />
     <MESSAGE value="241020: add leetcode algorithm problems did in a week" />
-    <option name="LAST_COMMIT_MESSAGE" value="241020: add leetcode algorithm problems did in a week" />
+    <MESSAGE value="241027: add leetcode algorithm problems did in a week" />
+    <option name="LAST_COMMIT_MESSAGE" value="241027: add leetcode algorithm problems did in a week" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
