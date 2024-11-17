@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a7a27eb-dd25-4178-a713-6fc373d5417b" name="Changes" comment="241103: add leetcode algorithm problems did in a week">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code394_DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code399_EvaluateDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code406_QueueReconstructionByHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code416_PartitionEqualSubsetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code437_PathSumIII.java" afterDir="false" />
+    <list default="true" id="1a7a27eb-dd25-4178-a713-6fc373d5417b" name="Changes" comment="241111: add leetcode algorithm problems did in a week">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code438_FindAllAnagramsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code448_FindAllNumbersDisappearedInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code461_HammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code494_TargetSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +255,11 @@
       <workItem from="1730853907871" duration="435000" />
       <workItem from="1730942115864" duration="495000" />
       <workItem from="1731029805869" duration="724000" />
-      <workItem from="1731285254579" duration="349000" />
+      <workItem from="1731285254579" duration="560000" />
+      <workItem from="1731372726745" duration="1052000" />
+      <workItem from="1731460451989" duration="394000" />
+      <workItem from="1731547458259" duration="2152000" />
+      <workItem from="1731804754843" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1672992010583</created>
@@ -349,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730597667971</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="241111: add leetcode algorithm problems did in a week">
+      <option name="closed" value="true" />
+      <created>1731285805507</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731285805507</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +393,8 @@
     <MESSAGE value="241020: add leetcode algorithm problems did in a week" />
     <MESSAGE value="241027: add leetcode algorithm problems did in a week" />
     <MESSAGE value="241103: add leetcode algorithm problems did in a week" />
-    <option name="LAST_COMMIT_MESSAGE" value="241103: add leetcode algorithm problems did in a week" />
+    <MESSAGE value="241111: add leetcode algorithm problems did in a week" />
+    <option name="LAST_COMMIT_MESSAGE" value="241111: add leetcode algorithm problems did in a week" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
