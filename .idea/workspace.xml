@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a7a27eb-dd25-4178-a713-6fc373d5417b" name="Changes" comment="241111: add leetcode algorithm problems did in a week">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code438_FindAllAnagramsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code448_FindAllNumbersDisappearedInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code461_HammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/Code494_TargetSum.java" afterDir="false" />
+    <list default="true" id="1a7a27eb-dd25-4178-a713-6fc373d5417b" name="Changes" comment="241117: add leetcode algorithm problems did in a week">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code538_ConvertBST2GreaterTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code543_DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code560_SubarraySumEqualsK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code581_ShortestUnsortedContinuousSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code617_MergeTwoBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/Code621_TaskScheduler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -260,6 +262,16 @@
       <workItem from="1731460451989" duration="394000" />
       <workItem from="1731547458259" duration="2152000" />
       <workItem from="1731804754843" duration="358000" />
+      <workItem from="1731805230460" duration="91000" />
+      <workItem from="1731892332636" duration="494000" />
+      <workItem from="1732064605867" duration="476000" />
+      <workItem from="1732158103446" duration="569000" />
+      <workItem from="1732240325334" duration="570000" />
+      <workItem from="1732240906729" duration="162000" />
+      <workItem from="1732241077084" duration="8000" />
+      <workItem from="1732241119254" duration="258000" />
+      <workItem from="1732361497724" duration="1434000" />
+      <workItem from="1732429790673" duration="348000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1672992010583</created>
@@ -360,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731285805507</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="241117: add leetcode algorithm problems did in a week">
+      <option name="closed" value="true" />
+      <created>1731805290347</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731805290347</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,7 +414,8 @@
     <MESSAGE value="241027: add leetcode algorithm problems did in a week" />
     <MESSAGE value="241103: add leetcode algorithm problems did in a week" />
     <MESSAGE value="241111: add leetcode algorithm problems did in a week" />
-    <option name="LAST_COMMIT_MESSAGE" value="241111: add leetcode algorithm problems did in a week" />
+    <MESSAGE value="241117: add leetcode algorithm problems did in a week" />
+    <option name="LAST_COMMIT_MESSAGE" value="241117: add leetcode algorithm problems did in a week" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
